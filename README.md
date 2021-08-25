@@ -2,7 +2,7 @@
 (Unfinished)
 
 (8/25/2021)
-This account was originally created for my Python class my junior year. I created multiple projects, alhtough some are unfinished, I plan to complete a few of them. I'm a senior now, and I plan to take a class in C# next year. Currently (as of writing this, I'm planning a click-escape game using Python.
+This account was originally created for my Python class my junior year. I created multiple projects, alhtough some are unfinished, I plan to complete a few of them. I'm a senior now, and I am taking a class in C# this year. Currently (as of writing this, I'm planning a click-escape game using Python).
 
 
 <!---
